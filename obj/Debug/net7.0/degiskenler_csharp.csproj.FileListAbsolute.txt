@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\bin\Debug\net7.0\degiskenler_csharp.exe
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\bin\Debug\net7.0\degiskenler_csharp.deps.json
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\bin\Debug\net7.0\degiskenler_csharp.runtimeconfig.json
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\bin\Debug\net7.0\degiskenler_csharp.dll
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\bin\Debug\net7.0\degiskenler_csharp.pdb
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\obj\Debug\net7.0\degiskenler_csharp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\obj\Debug\net7.0\degiskenler_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\obj\Debug\net7.0\degiskenler_csharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\obj\Debug\net7.0\degiskenler_csharp.AssemblyInfo.cs
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\obj\Debug\net7.0\degiskenler_csharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\obj\Debug\net7.0\degiskenler_csharp.dll
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\obj\Debug\net7.0\refint\degiskenler_csharp.dll
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\obj\Debug\net7.0\degiskenler_csharp.pdb
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\obj\Debug\net7.0\degiskenler_csharp.genruntimeconfig.cache
+C:\Users\user\Desktop\yazılım\degiskenler_csharp\obj\Debug\net7.0\ref\degiskenler_csharp.dll

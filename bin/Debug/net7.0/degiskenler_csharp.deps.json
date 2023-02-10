@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "degiskenler_csharp/1.0.0": {
+        "runtime": {
+          "degiskenler_csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "degiskenler_csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
